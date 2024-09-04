@@ -1,3 +1,4 @@
+0. 
 1. string is not a 'primitive' datatype. It is a class.
 
 2. String Methods: 
